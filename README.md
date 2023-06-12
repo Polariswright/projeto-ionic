@@ -1,0 +1,2 @@
+# projeto-ionic
+algo ai
